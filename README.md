@@ -8,7 +8,7 @@ A gemified version of the awesome [highlight.js](https://highlightjs.org) librar
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'highlightjs-rails', '~> 9.0.0.0.pre.alpha'
+gem 'highlightjs-rails'
 ```
 
 And then execute:
@@ -17,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install highlightjs-rails -v 9.0.0.0.pre.alpha
+    $ gem install highlightjs-rails
 
 ## Usage
 
