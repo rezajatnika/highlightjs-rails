@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/rezajatnika/highlightjs-rails.svg)](https://travis-ci.org/rezajatnika/highlightjs-rails)
 # highlightjs-rails
 
 A gemified version of the awesome [highlight.js](https://highlightjs.org) library.
