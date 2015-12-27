@@ -46,7 +46,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/rezaja
 
 A couple of notes:
 
-* If it's an issue pertaining to the marked javascript, please report it to the [highlight.js project](https://github.com/isagalaev/highlight.js).
+* If it's an issue pertaining to the highlight.js javascript, please report it to the [highlight.js project](https://github.com/isagalaev/highlight.js).
 * If the highlight.js scripts are outdated, feel free to open an issue and prod us to get that thing updated.
 
 ## License
