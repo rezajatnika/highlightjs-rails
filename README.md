@@ -25,7 +25,6 @@ The highlight.js files will be added to the asset pipeline and available for you
 
 ```js
 //= require highlight
-//= require languages/ruby
 ```
 
 and to application.css:
