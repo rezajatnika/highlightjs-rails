@@ -23,14 +23,14 @@ Or install it yourself as:
 The highlight.js files will be added to the asset pipeline and available for you to use. Add these lines to application.js:
 
 ```js
-//= require highlightjs/highlight
-//= require highlightjs/languages/ruby
+//= require highlight
+//= require languages/ruby
 ```
 
 and to application.css:
 
 ```css
-*= require highlightjs/github
+*= require styles/github
 ```
 
 The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling `initHighlightingOnLoad`:
