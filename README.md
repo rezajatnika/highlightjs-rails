@@ -30,7 +30,9 @@ The highlight.js files will be added to the asset pipeline and available for you
 and to application.css:
 
 ```css
-*= require styles/github
+/*
+ *= require styles/github
+ */
 ```
 
 The bare minimum for using highlight.js on a web page is linking to the library along with one of the styles and calling `initHighlightingOnLoad`:
